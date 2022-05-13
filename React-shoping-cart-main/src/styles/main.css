@@ -38,10 +38,16 @@ section {
   font-weight: bolx;
   color: grey;
 }
+.details{
+  margin-top: 10px;
+}
 .details button {
   padding: 5px 10px;
   border: none;
   font-weight: bold;
   background-color: rgb(230, 223, 28);
   outline: none;
+}
+.details button:hover{
+  background-color: rgb(18, 234, 54);
 }
